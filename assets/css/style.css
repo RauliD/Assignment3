@@ -1,0 +1,145 @@
+body {
+    background-color: #f5f5f5;
+}
+
+header nav {
+    width: 100%;
+    justify-content: center;
+    height: 87px;
+    border-bottom: 1px solid black;
+}
+
+header ul {
+    margin-top: 30px;
+    text-align: center;
+}
+
+header li {
+    display: inline;
+    font-size: 18px;
+    line-height: 27px;
+    height: 27px;
+    padding: 40px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+main h1 {
+    color: black;
+    font-size: 24px;
+    line-height: 28.8px;
+    height: 29px;
+    margin-top: 72px;
+    text-align: center;
+}
+
+.mainpage {
+    padding: 100px 0px 200px 60px;
+}
+
+.box {
+    display: inline-block;
+}
+
+.content {
+    background-color:   white;
+    border: 1px solid black;
+    display: inline-block;
+    padding: 15px 15px 25px 15px;
+    width: 333px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.content img {
+    width: 100%;
+}
+
+.content h2 {
+    margin: 15px 0;
+    line-height: 24px;
+    letter-spacing: 1px;
+}
+
+.content p {
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.content h2,
+.content p {
+    margin-left: 10px;
+}
+
+.contentfooter button{
+    font-size: 12px;
+    line-height: 18px;
+    padding: 6px 26px;
+    background-color: inherit;
+    border: 1px solid black;
+    border-radius: 4px; 
+}
+
+.contentfooter {
+    text-align: right;
+    margin-top: 20px;
+}
+
+.contenttext {
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 115px;
+    font-size: 14px;
+    height: 57px;
+    line-height: 19.07px;
+}
+
+.box.middle {
+    margin: 0px 100px;
+}
+
+main section h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #7D0000;
+    margin-top: 85px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 54px;
+    width: 100%;
+}
+
+.detailinfo {
+    margin: 132px 981px 509px 206px;
+    width: 100%;
+    margin-bottom: 32px;
+    font-size: 25px;
+    height: 34px;
+}
+
+.detailinfo p {
+    margin-bottom: 32px;
+}
+
+.aboutinfo h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #7D0000;
+    text-align: center;
+    font-size: 40px;
+    line-height: 54px;
+    margin-top: 112px;
+    margin-bottom: 118px;
+}
+
+.paragraph {
+    margin: 0px 490px 0px 175px;
+    font-size: 25px;
+    height: 205px;
+    line-height: 41.25px;
+}
+
+.aboutinfo p {
+    font-style: italic;
+    font-size: 25px;
+    line-height: 34.05px;
+    height: 34px;
+    width: 349px;
+    margin: 59px 916px 355px 175px;
+}
